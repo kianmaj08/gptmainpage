@@ -1,0 +1,6 @@
+{
+  "cards": [
+    {"title": "Karte 1", "text": "Dies ist die erste Karte."},
+    {"title": "Karte 2", "text": "Dies ist die zweite Karte."}
+  ]
+}
